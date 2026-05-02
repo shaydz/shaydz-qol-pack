@@ -1,0 +1,63 @@
+{
+  "name": "shaydz-qol-pack",
+  "version": "1.0.0",
+  "title": "Shaydz's QoL",
+  "author": "Shaydz",
+  "description": "A personal dependency mod that enables Shaydz's preferred Quality of Life, RPG, and utility mods.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+
+    "smart-starter-pack",
+
+    "pump",
+    "aai-loaders",
+    "aai-loaders-k2",
+    "helmod",
+    "factoryplanner",
+    "RateCalculator",
+    "MaxRateCalculator",
+    "FNEI",
+
+    "folk-fill",
+    "even-distribution",
+    "AreaPaste",
+    "module-inserter",
+    "power-grid-comb",
+    "ghost-counter",
+    "pickitup",
+    "inventory-repair",
+    "repair-from-vehicle",
+    "chest-auto-sort",
+    "automatic-underground-pipe-connectors",
+
+    "squeak-through-2",
+    "even-pickier-dollies",
+    "VehicleSnap",
+    "start-alt",
+    "QuickbarTemplates",
+
+    "BottleneckLite",
+    "FactorySearch",
+    "belt-visualizer",
+    "PipeVisualizer-Updated",
+    "show-max-underground-distance",
+    "Moar-Radar-updated",
+    "StatsGui",
+    "Milestones",
+    "better-victory-screen",
+
+    "CleanedConcrete",
+    "DiscoScience",
+    "bullet-trails",
+
+    "combat-mechanics-overhaul",
+    "Fireproof-Bots-2",
+    "spidertron-extended",
+
+    "RPGsystem",
+
+    "? Mining_Drones_Remastered",
+    "? Mining_Drones_2_CnC_No_Depot"
+  ]
+}
